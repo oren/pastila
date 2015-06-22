@@ -1,5 +1,7 @@
 @import url(./normalize.css);
 @import url(./utilities.css);
+@import url(./prism.css);
+@import url(./editor.css);
 @import url(./menus.css);
 @import url(./forms.css);
 @import url(./buttons.css);
@@ -67,6 +69,4 @@ body, html {
 .workspace {
   flex: 1;
   z-index: 1;
-  padding-left: 20px;
-  padding-right: 20px;
 }
